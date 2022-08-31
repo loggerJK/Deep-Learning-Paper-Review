@@ -4,13 +4,13 @@
 
 ## Transformer
 - [X] Attention Is All You Need (NIPS 2017)
-- Original Paper Link | Notion | Blog 
+- [Original Paper Link](https://arxiv.org/abs/1706.03762) | Notion | Blog 
 - [ ] An Image is Worth 16x16 Words: Transformers for Image Recognition At Scale
 - [X] End-to-End Object Detection with Transformers (DETR, ECCV 2020)
-- Original Paper Link | Notion | Blog 
+- [Original Paper Link](https://arxiv.org/abs/2005.12872) | Notion | Blog 
 - [ ] MLP-Mixer: An all-MLP Architecture for Vision
 - [X] Swin Transformer: Hierarchical Vision Transformer using Shifted Windows
-- Original Paper Link | Notion | Blog 
+- [Original Paper Link](https://arxiv.org/abs/2103.14030) | Notion | Blog 
 
 ## Object Detection / Segmentation
 - [X] Rich feature hierarchies for accurate object detection and semantic segmentation (R-CNN, CVPR 2014)
@@ -61,7 +61,7 @@
 
 ## Implicit Field
 - [X] NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis
-- Original Paper Link | Notion | [Blog](https://loggerjk.github.io/deeplearning/%EB%B2%88%EC%97%AD-NeRF-Representing-Scenes-as-Neural-Radiance-Fields-for-View-Synthesis/) 
+- [Original Paper Link](https://arxiv.org/abs/2003.08934) | Notion | [Blog](https://loggerjk.github.io/deeplearning/%EB%B2%88%EC%97%AD-NeRF-Representing-Scenes-as-Neural-Radiance-Fields-for-View-Synthesis/) 
 - [ ] GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields
 - [ ] Multiview Neural Surface Reconstruction by Disentangling Geometry and Appearance
 - [ ] IBRNet: Learning Multi-View Image-Based Rendering
