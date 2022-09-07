@@ -7,16 +7,16 @@
 - [Original Paper Link](https://arxiv.org/abs/1706.03762) | Notion | Blog 
 - [ ] An Image is Worth 16x16 Words: Transformers for Image Recognition At Scale
 - [X] End-to-End Object Detection with Transformers (DETR, ECCV 2020)
-- [Original Paper Link](https://arxiv.org/abs/2005.12872) | Notion | Blog 
+- [Original Paper Link](https://arxiv.org/abs/2005.12872) | Notion | [Blog](https://loggerjk.github.io/deeplearning/DETR/) 
 - [ ] MLP-Mixer: An all-MLP Architecture for Vision
 - [X] Swin Transformer: Hierarchical Vision Transformer using Shifted Windows
 - [Original Paper Link](https://arxiv.org/abs/2103.14030) | Notion | Blog 
 
 ## Object Detection / Segmentation
 - [X] Rich feature hierarchies for accurate object detection and semantic segmentation (R-CNN, CVPR 2014)
-- Original Paper Link | Notion | [Blog](https://loggerjk.github.io/deeplearning/Paper-R-CNN(2013)/) 
+- [Original Paper Link](https://arxiv.org/abs/1311.2524) | Notion | [Blog](https://loggerjk.github.io/deeplearning/Paper-R-CNN(2013)/) 
 - [X] You Only Look Once: Unified, Real-Time Object Detection (YOLO V1, CVPR 2016)
-- Original Paper Link | Notion | [Blog](https://loggerjk.github.io/deeplearning/Paper-YOLO-You-Look-Only-Once/) 
+- [Original Paper Link](https://arxiv.org/abs/1506.02640) | Notion | [Blog](https://loggerjk.github.io/deeplearning/Paper-YOLO-You-Look-Only-Once/) 
 - [ ] Faster R-CNN 
 - [ ] Mask R-CNN
 - [ ] Panoptic Feature Pyramid Networks
